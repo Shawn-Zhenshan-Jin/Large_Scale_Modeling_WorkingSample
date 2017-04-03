@@ -1,5 +1,3 @@
-## Large_Scale_Modeling_WorkingSample
-
 ## PROJECT DESCRIPTION:
 * Goal: Identify the importance of each electro-nodes in reconstructing human speech
 
