@@ -23,7 +23,7 @@
 1. open Spyder
 2. click "Projects" in the menu
 3. then "Open Project..."
-4. go to this README.txt directory
+4. go to this README.md directory
 5. click choose
 
 
